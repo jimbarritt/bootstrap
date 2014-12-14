@@ -7,6 +7,12 @@ os x machine and installs everything you need on it automatically
 ## Setup a new mac
 
 - Upgrade all the latest patches / OS
+- Install Karabiner for keyboard mapping (https://pqrs.org/osx/karabiner/index.html.en)
+  - RETURN->CTRL
+  - CAPS_LOCK->CTRL
+  - RIGHT_OPTION->CTRL
+  - 
+- Copy ssh keys from old mac via airdrop
 - Install 1Password
 - Install App store purchases
   - Alfred (App Store)
